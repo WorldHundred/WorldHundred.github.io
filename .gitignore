@@ -7,7 +7,15 @@ preview-github-profile.html
 
 # 本地推送辅助脚本，不随站点发布
 push.bat
+push-profile.bat
+fix-hosts.bat
+hosts-backup.txt
+open-github.bat
+资料填写内容.txt
 
 # 系统
 .DS_Store
 Thumbs.db
+
+# 仅用于 GitHub 头像上传，不随站点发布
+assets/github-avatar.png
