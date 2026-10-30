@@ -1,0 +1,13 @@
+# 工作区内部文件
+.workbuddy/
+
+# 属于 GitHub profile 仓库的素材，不随站点发布
+github-profile-README.md
+preview-github-profile.html
+
+# 本地推送辅助脚本，不随站点发布
+push.bat
+
+# 系统
+.DS_Store
+Thumbs.db
